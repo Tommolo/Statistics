@@ -1,0 +1,17 @@
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\bin\Debug\net6.0-windows\Homework1_.exe
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\bin\Debug\net6.0-windows\Homework1_.deps.json
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\bin\Debug\net6.0-windows\Homework1_.runtimeconfig.json
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\bin\Debug\net6.0-windows\Homework1_.dll
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\bin\Debug\net6.0-windows\Homework1_.pdb
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.csproj.AssemblyReference.cache
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.Form1.resources
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.csproj.GenerateResource.cache
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.AssemblyInfoInputs.cache
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.AssemblyInfo.cs
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.csproj.CoreCompileInputs.cache
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.dll
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\refint\Homework1_.dll
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.pdb
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\Homework1_.genruntimeconfig.cache
+C:\Users\pieru\Documents\Statistics\Homework1_\Homework1_\obj\Debug\net6.0-windows\ref\Homework1_.dll
