@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pieru\\Documents\\Statistics\\Homework 2\\Homework 2\\Homework 2.csproj",
+      "projectUniqueName": "C:\\Users\\pieru\\Documents\\Homework 2022\\Statistics\\Homework 2\\Homework 2.1\\Homework 2\\Homework 2.csproj",
       "projectName": "Homework 2",
-      "projectPath": "C:\\Users\\pieru\\Documents\\Statistics\\Homework 2\\Homework 2\\Homework 2.csproj",
+      "projectPath": "C:\\Users\\pieru\\Documents\\Homework 2022\\Statistics\\Homework 2\\Homework 2.1\\Homework 2\\Homework 2.csproj",
       "packagesPath": "C:\\Users\\pieru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pieru\\Documents\\Statistics\\Homework 2\\Homework 2\\obj\\",
+      "outputPath": "C:\\Users\\pieru\\Documents\\Homework 2022\\Statistics\\Homework 2\\Homework 2.1\\Homework 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pieru\\AppData\\Roaming\\NuGet\\NuGet.Config",

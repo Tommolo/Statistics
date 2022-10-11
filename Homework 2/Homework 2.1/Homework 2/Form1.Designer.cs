@@ -41,7 +41,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Random";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -61,7 +61,7 @@
             this.Clear.Name = "Clear";
             this.Clear.Size = new System.Drawing.Size(86, 31);
             this.Clear.TabIndex = 2;
-            this.Clear.Text = "Clear";
+            this.Clear.Text = "Stop it";
             this.Clear.UseVisualStyleBackColor = true;
             this.Clear.Click += new System.EventHandler(this.Clear_Click);
             // 

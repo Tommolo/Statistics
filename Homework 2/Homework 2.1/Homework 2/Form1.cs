@@ -17,6 +17,7 @@ namespace Homework_2
         private void button1_Click(object sender, EventArgs e)
         {
             this.timer1.Start();
+           
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -26,9 +27,8 @@ namespace Homework_2
 
         private void Clear_Click(object sender, EventArgs e)
         {
-            this.timer1.Stop();
             this.richTextBox1.AppendText("");
-
+            this.timer1.Stop();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

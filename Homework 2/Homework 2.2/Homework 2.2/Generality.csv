@@ -1,4 +1,7 @@
-﻿Name;Age;High
-Tommaso;18;182
-Filippo;23;185
-Edoardo;24;180
+﻿Name;Age;High;Sex
+Tommaso;18;182;male
+Filippo;23;185;male
+Edoardo;24;180;male
+Francesca;14;160;female
+Eleonora;25;170;female
+Rebecca;22;165;female
