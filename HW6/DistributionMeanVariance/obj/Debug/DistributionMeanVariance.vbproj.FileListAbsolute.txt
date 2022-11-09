@@ -1,0 +1,12 @@
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\bin\Debug\DistributionMeanVariance.exe.config
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\bin\Debug\DistributionMeanVariance.exe
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\bin\Debug\DistributionMeanVariance.pdb
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\bin\Debug\DistributionMeanVariance.xml
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.vbproj.AssemblyReference.cache
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.Form1.resources
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.Resources.resources
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.vbproj.GenerateResource.cache
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.vbproj.CoreCompileInputs.cache
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.exe
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.xml
+C:\Users\EJ033T\Statistic-Sapienza-2022-2023\HW6\DistributionMeanVariance\obj\Debug\DistributionMeanVariance.pdb
