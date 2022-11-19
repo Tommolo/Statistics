@@ -1,0 +1,68 @@
+C:\Users\vitul\Documents\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.exe
+C:\Users\vitul\Documents\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.deps.json
+C:\Users\vitul\Documents\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.runtimeconfig.json
+C:\Users\vitul\Documents\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.AssemblyReference.cache
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.Form1.resources
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.GenerateResource.cache
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfoInputs.cache
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfo.vb
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.CoreCompileInputs.cache
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\refint\Hom4.dll
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.genruntimeconfig.cache
+C:\Users\vitul\Documents\Hom4\Hom4\obj\Debug\net6.0-windows\ref\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.exe
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.deps.json
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.runtimeconfig.json
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\bin\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.AssemblyReference.cache
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.Form1.resources
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.GenerateResource.cache
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfoInputs.cache
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfo.vb
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.CoreCompileInputs.cache
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\refint\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\Hom4.genruntimeconfig.cache
+C:\Users\vitul\Documents\Statistics\Hom4\Hom4\obj\Debug\net6.0-windows\ref\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.exe
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.deps.json
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.runtimeconfig.json
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.AssemblyReference.cache
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.Form1.resources
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.GenerateResource.cache
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfoInputs.cache
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfo.vb
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.CoreCompileInputs.cache
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\refint\Hom4.dll
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.pdb
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.genruntimeconfig.cache
+C:\Users\vitul\Documents\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\ref\Hom4.dll
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.exe
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.deps.json
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.runtimeconfig.json
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.dll
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\bin\Debug\net6.0-windows\Hom4.pdb
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.AssemblyReference.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.Form1.resources
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.GenerateResource.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfoInputs.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.AssemblyInfo.vb
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.vbproj.CoreCompileInputs.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.dll
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\refint\Hom4.dll
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.pdb
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\Hom4.genruntimeconfig.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\Hom7\Hom4\obj\Debug\net6.0-windows\ref\Hom4.dll
