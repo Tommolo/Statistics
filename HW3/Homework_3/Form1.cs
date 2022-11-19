@@ -52,10 +52,10 @@ namespace Homework_3
                     }
                 }
             }
-            this.textBox2.Visible = true;
+            this.richTextBox2.Visible = true;
             this.richTextBox2.Visible = true;
             this.textBox1.Visible = true;
-            this.textBox1.Text = ("There are " + (this.tables.First().Count()-1) + " packets found!");
+            this.textBox1.Text = ("PACKETS FOUND -->" + (this.tables.First().Count()-1));
             this.listBox1.Visible = true;
             this.listBox1.DataSource = headers;
         }
@@ -85,17 +85,19 @@ namespace Homework_3
 
             foreach (List<string> elem in rows)
             {
+                int percentage= (int)Math.Round((double)(100 * elem.Count()) / this.tables.First().Count());
+
                 if (elem.First() != "")
                 {
-                    this.richTextBox2.AppendText("\"" + elem.First() + "\" occurs: " + elem.Count() + " time\n");
+                    this.richTextBox2.AppendText("\"" + elem.First() + "\" Percentage " + percentage + " %\n");
                 }
                 else if (elem.Count() > 1)
                 {
-                    this.richTextBox2.AppendText("There are " + elem.Count() + " blank values.\n");
+                    this.richTextBox2.AppendText("" + percentage + " blank values.\n");
                 }
                 else
                 {
-                    this.richTextBox2.AppendText("There is " + elem.Count() + " blank value.\n");
+                    this.richTextBox2.AppendText("" + percentage + " blank value.\n");
                 }
             }
 
@@ -118,5 +120,9 @@ namespace Homework_3
             compute_row(elem_list);
         }
 
+        private void richTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
