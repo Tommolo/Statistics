@@ -1,0 +1,22 @@
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\bin\Debug\Homework4.exe
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\bin\Debug\Homework4.pdb
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.Properties.Resources.resources
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.exe
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.pdb
+C:\Users\andre\source\repos\Homework1\Homework4\Homework4\obj\Debug\Homework4.Form1.resources
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\bin\Debug\Homework4.exe
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\bin\Debug\Homework4.pdb
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.csproj.AssemblyReference.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.Form1.resources
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.Properties.Resources.resources
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.csproj.GenerateResource.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.exe
+C:\Users\pieru\Documents\Homework 2022\Statistics\HW4\Homework4\obj\Debug\Homework4.pdb
